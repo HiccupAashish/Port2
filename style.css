@@ -41,3 +41,20 @@ nav ul li a:hover{
     text-decoration:underline;
     text-transform: capitalize;
 }
+.main-img{
+    position: absolute;
+    width: 50%;
+    height: 95%;
+    bottom: 0;
+    right: 65px;
+    top: 100px;
+
+  }
+  .main-img img{
+    position: absolute;
+    border: none;
+    height: 95%;
+    width: 79%;
+    left: 70%;
+    transform: translateX(-50%);
+  }
