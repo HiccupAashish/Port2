@@ -12,7 +12,7 @@
 
 
 }
-nav{
+ nav {
     display:flex;
     align-items: center;
     justify-content: space-between;
@@ -65,6 +65,21 @@ nav ul li a:hover{
 
 }
 
-ul li{
+ul li a{
     color: red;
+}
+  .footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    
+    color: white;
+    text-align: center;
+}
+.social li{
+    list-style-type: none;
+    display: inline-block;
+    padding : 10px 200px;
+    
 }
