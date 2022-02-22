@@ -1,11 +1,12 @@
 .bar{
    
 
-    background: linear-gradient(90deg, rgba(255,255,255,1) 25%, rgba(249,249,249,1) 25%, rgba(249,249,249,1) 60%, rgba(211,211,211,1) 60%);
+    background-image: url(images/background.jpg);
     background-size: 100%;
-    background-repeat: no-repeat;
+    
   height: 100vh;
   width: 100%;
+  color: white;
  
  
 
@@ -30,31 +31,40 @@ nav ul li{
 }
 nav ul li a{
     text-decoration: none;
-    color: rgb(34, 10, 10);
+    color: #e0afa0;
     font-weight: bold;
     letter-spacing: 1px;
 
 }
 nav ul li a:hover{
-    color:red;
+    color: #fce6ee;
     transition: .4s;
     text-decoration:underline;
     text-transform: capitalize;
 }
-.main-img{
+.content{
     position: absolute;
-    width: 50%;
-    height: 95%;
-    bottom: 0;
-    right: 65px;
-    top: 100px;
-
-  }
-  .main-img img{
-    position: absolute;
+  top: 50%;
+  left: 5%;
+  transform: translateY(-50%);
+}
+.content h1{
+    font-size: 90px;
+    color: white;
+    
+    margin-bottom: 5px;
+}
+.convo{
+    background:black;
+    color: white;
+    
+    text-align: center;
+    font-size: 32px;
     border: none;
-    height: 95%;
-    width: 79%;
-    left: 70%;
-    transform: translateX(-50%);
-  }
+  letter-spacing: 10px; 
+
+}
+
+ul li{
+    color: red;
+}
