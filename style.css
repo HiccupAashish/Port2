@@ -83,3 +83,28 @@ ul li a{
     padding : 10px 200px;
     
 }
+.Aboutme{
+    position: relative;
+    align-items: center;
+width: 100%;
+left: 10px;
+text-align: center;
+top:30%;
+}
+#age{
+    color:#ccff33;
+}
+ul.a{
+    list-style-type: none;
+    color:#adff02;
+    font-weight: bold;
+}
+.skills{
+    position: relative;
+    align-items: center;
+width: 100%;
+left: 10px;
+text-align: center;
+top:10%;
+
+}
