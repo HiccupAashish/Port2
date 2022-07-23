@@ -1,9 +1,9 @@
-
-
+import React from 'react'
+import About  from './pages/About';
 function App() {
   return (
     <div className="App">
-      <h1> Aashish</h1>
+     <About/>
     </div>
   );
 }
