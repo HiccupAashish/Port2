@@ -17,7 +17,7 @@ export const MovieState = () => {
       title: "Hiccup Music",
       mainImg: musicapp1,
       secondaryImg: musicapp2,
-      url: "/project/music-app",
+      url: "/Port2/project/music-app",
       link: "https://hiccupaashish.github.io/music-app/",
       codelink: "https://github.com/HiccupAashish/music-app",
       awards: [
@@ -36,7 +36,7 @@ export const MovieState = () => {
     {
       title: "Quiz Application",
       mainImg: quizapp,
-      url: "/project/react-quiz",
+      url: "/Port2/project/react-quiz",
       secondaryImg: quizapp1,
       link: "https://hiccupaashish.github.io/Aashish-React-Project/",
       codelink: "https://github.com/HiccupAashish/Aashish-React-Project",
@@ -57,7 +57,7 @@ export const MovieState = () => {
     {
       title: "Javascript News",
       mainImg: newsapp,
-      url: "/project/news-app",
+      url: "/Port2/project/news-app",
       link: "https://hiccupaashish.github.io/Javascript-API-project/",
       codelink: "https://github.com/HiccupAashish/Javascript-API-project",
       awards: [

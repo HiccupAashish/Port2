@@ -12,7 +12,7 @@ export default function Nav() {
         <h1> <a id="logo" href="#">Capture</a></h1>
          <ul>
             <li> 
-                <Link to="/"> About Me</Link>
+                <Link to="/Port2"> About Me</Link>
                 <motion.div 
                 transition={{duration:0.75}} 
                 initial={{width:'0%'}} 
@@ -26,7 +26,7 @@ export default function Nav() {
                 initial={{width:'0%'}} 
                 animate={{width: pathname === '/work'? '50%':'0%'}} 
                 className="line-active"></motion.div>
-                <Link to="/work"> My Work</Link>
+                <Link to="/Port2/work"> My Work</Link>
             </li>
             
             <li> 
@@ -35,7 +35,7 @@ export default function Nav() {
                 initial={{width:'0%'}} 
                 animate={{width: pathname === '/contactme'? '50%':'0%'}} 
                 className="line-active"></motion.div>
-                <Link to="/contactme"> Contact Me</Link>
+                <Link to="/Port2/contactme"> Contact Me</Link>
             </li>
          </ul>
     </nav>

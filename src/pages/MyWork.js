@@ -41,7 +41,7 @@ export default function MyWork() {
         <motion.div ref={element} variants={fade} animate={controls} initial="hidden" className="movie">
             <motion.h2 variants={fade} > Music App</motion.h2>
             <motion.div variants={lineAnimation} className="line"></motion.div>
-            <Link to="/project/music-app">
+            <Link to="/Port2/project/music-app">
                 <div  className='hidden'>
                 <motion.img variants={photoAnimation} src={musicapp} alt="Aashish Times"/>
                 </div>
@@ -51,7 +51,7 @@ export default function MyWork() {
             <motion.div ref={element2} variants={fade} animate={controls2} initial="hidden" className="movie">
                 <h2>React  Quiz Application</h2>
                 <motion.div variants={lineAnimation} className="line"></motion.div>
-                <Link to="/project/react-quiz">
+                <Link to="/Port2/project/react-quiz">
                     <div className='hidden'>
                     <motion.img variants={photoAnimation} src={quizapp} alt="khoi"/>
                     </div>
@@ -61,7 +61,7 @@ export default function MyWork() {
             <motion.div ref={element3} variants={fade} animate={controls3} initial="hidden" className="movie">
                 <h2> News Application </h2>
                 <motion.div variants={lineAnimation} className="line"></motion.div>
-                <Link to="/project/news-app">
+                <Link to="/Port2/project/news-app">
                     <motion.img variants={photoAnimation} src={newsapp} alt="cddsc"/>
                 </Link>
             </motion.div>
