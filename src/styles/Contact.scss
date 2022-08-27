@@ -1,0 +1,48 @@
+.contact-style{
+    padding: 2rem 2rem;
+    color:white;
+    min-height: 100vh;
+    padding: 2rem;
+    font-size: 1rem;
+    @media(max-width:1000px){
+        margin-top: 5rem;
+     font-size: 1rem;
+     padding: 2rem;
+    }
+    .title{
+        margin-bottom: 4rem;
+        color:white;
+        @media(max-width:1000px){
+            margin-top: 5rem;
+           }
+    }
+}
+.hide{
+    overflow: hidden;
+}
+.social{
+    word-wrap: break-word;
+    display: flex;
+    flex-direction: row;
+    
+    padding-top: 3em;
+   
+    .circle{
+       
+        width: 3rem;
+        height: 3rem;
+        background-color: white;
+        // overflow: hidden;
+        
+    
+       
+        
+    }
+    h2{
+        margin-left: 3em;
+        
+        display: inline-block;
+        // overflow: hidden;
+        white-space: nowrap;
+    }
+}

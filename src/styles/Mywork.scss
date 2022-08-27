@@ -1,0 +1,72 @@
+.my_work{
+    min-height: 100vh;
+    background-color:#343a40;
+    overflow: hidden;
+    padding: 5rem 10rem;
+    h2{
+        padding: 1rem 0rem;
+    }
+    @media(max-width:1000px){
+       
+        padding: 2rem 2rem;
+        
+    }
+}
+.movie{
+    padding-bottom: 10rem;
+    background-color:#343a40;
+    .line{
+        height: 0.5rem;
+        background: #23d997;
+        margin-bottom: 3rem;
+    }
+    img{
+        width: 100%;
+        height: 70vh;
+        object-fit: cover;
+
+    }
+}
+img{
+    height: 20em;
+    width:70%;
+}
+.hidden{
+    overflow: hidden;
+}
+.frame1{
+    position:fixed;
+    left:0;
+    top:10%;
+    width:100%;
+    height:100vh;
+    background: #fffebf;
+    z-index:2;
+}
+.frame2{
+    position:fixed;
+    left:0;
+    top:10%;
+    width:100%;
+    height:100vh;
+    background:#84a98c;
+    z-index:2;
+}
+.frame3{
+    position:fixed;
+    left:0;
+    top:10%;
+    width:100%;
+    height:100vh;
+    background: #f5cac3;
+    z-index:2;
+}
+.frame4{
+    position:fixed;
+    left:0;
+    top:10%;
+    width:100%;
+    height:100vh;
+    background: #669bbc;
+    z-index:2;
+}
