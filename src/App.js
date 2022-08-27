@@ -19,10 +19,10 @@ function App() {
           <Nav/>
           <AnimatePresence exitBeforeEnter>
             <Routes location={location} key={location.pathname}>
-              <Route path="/" element={<About/>}/>   
-              <Route path="/work" element={<MyWork/>}/>          
-              <Route path="/contactme" element={<ContactMe/>}/>
-              <Route path="/project/:id" element={<MovieDetails/>}/>
+              <Route path="/Port2/" element={<About/>}/>   
+              <Route path="/Port2/work" element={<MyWork/>}/>          
+              <Route path="/Port2/contactme" element={<ContactMe/>}/>
+              <Route path="/Port2/project/:id" element={<MovieDetails/>}/>
             </Routes>
           </AnimatePresence>
        <ScrollTop/>
