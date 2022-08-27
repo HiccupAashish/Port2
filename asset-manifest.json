@@ -1,7 +1,7 @@
 {
   "main.css": "/Port2/static/css/main.b3b0e9d5.chunk.css",
-  "main.js": "/Port2/static/js/main.b89138db.chunk.js",
-  "main.js.map": "/Port2/static/js/main.b89138db.chunk.js.map",
+  "main.js": "/Port2/static/js/main.5fbe0c1b.chunk.js",
+  "main.js.map": "/Port2/static/js/main.5fbe0c1b.chunk.js.map",
   "static/js/1.ce47ab81.chunk.js": "/Port2/static/js/1.ce47ab81.chunk.js",
   "static/js/1.ce47ab81.chunk.js.map": "/Port2/static/js/1.ce47ab81.chunk.js.map",
   "static/js/2.c8e18f2b.chunk.js": "/Port2/static/js/2.c8e18f2b.chunk.js",
@@ -25,6 +25,6 @@
   "static/media/goodtimes-small.png": "/Port2/static/media/goodtimes-small.169a9b3a.png",
   "static/css/main.b3b0e9d5.chunk.css.map": "/Port2/static/css/main.b3b0e9d5.chunk.css.map",
   "index.html": "/Port2/index.html",
-  "precache-manifest.fafe9a15e644f57eae966c950fbf6751.js": "/Port2/precache-manifest.fafe9a15e644f57eae966c950fbf6751.js",
+  "precache-manifest.5706a392c30748a8213091681db3cf87.js": "/Port2/precache-manifest.5706a392c30748a8213091681db3cf87.js",
   "service-worker.js": "/Port2/service-worker.js"
 }
