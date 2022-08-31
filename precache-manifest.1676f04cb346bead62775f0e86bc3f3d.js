@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "425b1eb206a7cbecccf6",
-    "url": "/Port2/static/css/main.4b2edee6.chunk.css"
+    "revision": "07f8dbb1cad128bb032e",
+    "url": "/Port2/static/css/main.2affbf2b.chunk.css"
   },
   {
-    "revision": "425b1eb206a7cbecccf6",
-    "url": "/Port2/static/js/main.425b1eb2.chunk.js"
+    "revision": "07f8dbb1cad128bb032e",
+    "url": "/Port2/static/js/main.07f8dbb1.chunk.js"
   },
   {
-    "revision": "5ee476ae1244b517c019",
-    "url": "/Port2/static/js/1.5ee476ae.chunk.js"
+    "revision": "b4580c6e423a71b044a8",
+    "url": "/Port2/static/js/1.b4580c6e.chunk.js"
   },
   {
-    "revision": "b9a5d03a3f3570dcef2d",
-    "url": "/Port2/static/js/2.b9a5d03a.chunk.js"
+    "revision": "297ffb67d7b65849a063",
+    "url": "/Port2/static/js/2.297ffb67.chunk.js"
   },
   {
-    "revision": "e69dfe1530d0018cb1ad",
-    "url": "/Port2/static/js/runtime~main.e69dfe15.js"
+    "revision": "b55a2db50295df5ea4f8",
+    "url": "/Port2/static/js/runtime~main.b55a2db5.js"
   },
   {
     "revision": "2ce9ab2d824578d67f9cdd75f0fa642c",
@@ -48,8 +48,20 @@ self.__precacheManifest = [
     "url": "/Port2/static/media/music-app2.3d2c59d6.png"
   },
   {
+    "revision": "1a326d7033ccc0b823be6675ea73848e",
+    "url": "/Port2/static/media/Aashish Resume.1a326d70.pdf"
+  },
+  {
     "revision": "eb4e00030d0246927eb5b528b0733305",
     "url": "/Port2/static/media/mypic.eb4e0003.jpg"
+  },
+  {
+    "revision": "32ddb30a96fd13c3ca043b6f1c2fb2f8",
+    "url": "/Port2/static/media/sqllogo.32ddb30a.png"
+  },
+  {
+    "revision": "2b4808d3f42736a2e61232030a423db0",
+    "url": "/Port2/static/media/postgreslogo.2b4808d3.png"
   },
   {
     "revision": "b4e23a502e44692d9f3c8b427ac23e01",
@@ -84,7 +96,7 @@ self.__precacheManifest = [
     "url": "/Port2/static/media/goodtimes-small.169a9b3a.png"
   },
   {
-    "revision": "2efd5d421119d145a892b441a79feba0",
+    "revision": "bd9f9afadf54bcf3e1854b35bfa55e12",
     "url": "/Port2/index.html"
   }
 ];
