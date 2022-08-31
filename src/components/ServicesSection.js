@@ -1,5 +1,7 @@
 import React from 'react'
 import "../styles/ServicesSection.scss"
+import sql from "../images/sqllogo.png"
+import postgres from "../images/postgreslogo.png"
 import reactlogo from '../images/react-logo.png'
 import react from "../images/react-logo.png"
 import redux from "../images/redux-logo.png"
@@ -48,10 +50,28 @@ export default function ServicesSection() {
                 <div className="card">
                     <div className="icon">
                         <img src={rubyonrails} alt="Rubyonrails" />
-                        {/* <h3> Ruby on Rails</h3> */}
+                       
                     </div>
                 <h3> Rails </h3>
                 </div>
+
+                <div className="card">
+                    <div className="icon">
+                        <img src={sql} alt="React" />
+                       
+                    </div>
+                <h3>SQL</h3>
+                </div>
+
+                <div className="card">
+                    <div className="icon">
+                        <img src={postgres} alt="React" />
+                       
+                    </div>
+                <h3>Postgres</h3>
+                </div>
+
+             
             </div>
         </div> 
         <div className="image">
