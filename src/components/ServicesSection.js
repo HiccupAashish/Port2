@@ -20,7 +20,7 @@ export default function ServicesSection() {
     animate={controls} 
     initial="hidden" 
     ref={element} className='services'>
-        <div className="description">
+        <div className="info">
             <h2> My <span> frameworks</span></h2>
             <div className="cards">
                 <div className="card">
